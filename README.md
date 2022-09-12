@@ -22,3 +22,7 @@ The training data consists of a few hundred videos categorised into one of the f
 2. Model: Develop a model that is able to train without any errors which will be judged on the total number of parameters (as the inference(prediction) time should be less) and the accuracy achieved. As suggested by Snehansu, start training on a small amount of data and then proceed further.
 
 3. Write up: This should contain the detailed procedure followed in choosing the final model. The write up should start with the reason for choosing the base model, then highlight the reasons and metrics taken into consideration to modify and experiment to arrive at the final model.
+
+# Contributors
+- [Harshith R](https://github.com/harsh1th-r)
+- [Suraksha G B](https://github.com/sgrbharadwaj)
